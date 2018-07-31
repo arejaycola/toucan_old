@@ -1,0 +1,24 @@
+7[?47h[27m[24m[0m[H[J[28;1H"C:/Users/Rob/Documents/dev/Test Projects/twitter/.git/COMMIT_EDITMSG"<Test Projects/twitter/.git/COMMIT_EDITMSG" [converted][unix] 23L, 601C[1;1H[1m[33mAdded promises to Twitter API callback and error h[0mandler for no verified users foun[2;1Hd.
+
+[1m[36m# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Mon Jul 30 22:31:13 2018 -0400
+#
+# On branch [0m[1m[31mmaster[0m
+[1m[36m#
+# Initial commit
+#
+# [0m[1m[34mChanges to be committed:[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  .gitignore[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  package-lock.json[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  package.json[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  public/js/lib/jquery-3.3.1.min.js[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  server/TwitterHelper.js[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  server/server.js[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  views/index.hbs[0m
+[1m[36m#
+# [0m[1m[34mUntracked files:[0m
+[1m[36m#       [0m[1m[35msublime[0m
+[1m[36m#[0m
+[1m[34m~                                                                                  [26;1H~                                                                                  [0m[27;1H[1m[7m<nts/dev/Test Projects/twitter/.git/COMMIT_EDITMSG [unix] (22:37 30/07/2018)1,1 All[1;1H[0m[28;73H~@k[1;1H[28;73H   [1;1H[28;1HType  :qa!  and press <Enter> to abandon all changes and exit Vim[28;66H[K[1;1H[28;73Hs[1;1H[28;73H [1;1H[28;73Hcl[1;1H[28;73H  [1;1H[28;1H[1m-- INSERT --[0m[28;13H[K[1;1H[1m[33mdded promises to Twitter API callback and error ha[0mndler for no verified users found[2;1H.[2;2H[K[27;2H[1m[7m/dev/Test Projects/twitter/.git/COMMIT_EDITMSG[+][1;1H[0m[28;4H[1m^X mode (^]^D^E^F^I^K^L^N^O^Ps^U^V^Y)[1;1H[28;4HINSERT --[0m[28;13H[K[28;4H[1m^X mode (^]^D^E^F^I^K^L^N^O^Ps^U^V^Y)[1;1H[28;4HINSERT --[0m[28;13H[K[1;1H[1m[34m^Z[0m[1m[33mdded promises to Twitter API callback and error h[0mandler for no verified users fou[2;1Hnd.[27;2H[1m[7mev/Test Projects/twitter/.git/COMMIT_EDITMSG[+] [unix] (22:37 30/07/2018)1,2-3[1;3H[0m[1m[34m^Z[0m[1m[33mdded promises to Twitter API callback and error [0mhandler for no verified users f[2;1Hound.[27;77H[1m[7m3-5[1;5H[0m[1m[33m:dded promises to Twitter API callback and error[0m handler for no verified users [2;1Hfound.[27;77H[1m[7m4-6[1;6H[0m[26;1H[M[3;1H[L[1;6H[K[2;1H[1m[37m[41mdded promises to Twitter API callback and error handler for no verified users found[3;1H.[0m[27;2H[1m[7m/dev/Test Projects/twitter/.git/COMMIT_EDITMSG[+] [unix] (22:37 30/07/2018)2,1[2;1H[0m[26;1H[M[4;1H[L[2;1H[K[3;1Hdded promises to Twitter API callback and error handler for no verified users found[4;1H.[27;77H[1m[7m3[3;1H[0m[26;1H[M[5;1H[L[3;1H[K[4;1Hdded promises to Twitter API callback and error handler for no verified users found[5;1H.[27;77H[1m[7m4,1 Top[4;1H[0m[26;1H[M[6;1H[L[4;1H[K[5;1Hdded promises to Twitter API callback and error handler for no verified users found[6;1H.[27;77H[1m[7m5[5;1H[0m[26;1H[M[7;1H[L[5;1H[K[6;1Hdded promises to Twitter API callback and error handler for no verified users found[7;1H.[27;77H[1m[7m6[6;1H[0m:dded promises to Twitter API callback and error handler for no verified users foun[7;1Hd.[27;79H[1m[7m2[6;2H[0m[28;1H[K[6;1H[28;73H^[[6;1H[28;73H  [6;2H[27;79H[1m[7m1[6;1H[0m[28;73H^[[6;1H[28;73H  [6;1H[28;73H^[[6;1H[28;73H  [6;1H[28;73H![6;1H[28;74H^M[6;1H[28;73H   [6;1H[28;1H:.,.+1![28;1H[K[6;1H[28;73H^[[6;1H[28;73H  [6;1H[28;73H^[[6;1H[28;73H  [6;1H[28;73H^[[6;1H[28;73H  [6;1H[28;73H^[[6;1H[28;73H  [6;1H[28;73H^[[6;1H[28;73H  [6;1H[28;73H^[[6;1H[28;73H  [6;1H[28;73H^[[6;1H[28;73H  [6;1H[28;73H^[[6;1H[28;73H  [6;1H[28;73H^[[6;1H[28;73H  [6;1H[28;73H^[[6;1H[28;73H  [6;1H
