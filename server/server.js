@@ -3,6 +3,7 @@ const hbs = require('hbs');
 const fs = require('fs');
 const bodyParser = require('body-parser');
 const path = require('path');
+const colors = require('colors');
 
 const {searchForVerifiedUser} = require('./TwitterHelper');
 
@@ -20,18 +21,21 @@ hbs.registerHelper('getCurrentYear', () =>{
 	return new Date().getFullYear();
 });
 
-app.post('/server/twitter-search', (req, res) => {
-	searchForVerifiedUser(req.body)
-	.then((result) => {
-		console.log(result.name);
-	})
-	.catch((error) => {
-		console.log(error.red);
-	});
+app.post('/server/twitter-search', async (req, res) => {
+	try{
+		var user = await searchForVerifiedUser(req.body);
+		console.log(user.name);
+	}catch(e){
+		console.log(colors.red(e));
+	}
+	// searchForVerifiedUser(req.body).then((result) => {
+	// })
+	// .catch((error) => {
+	// 	console.log(colors.red(error));
+	// });
 })
 
 app.get('/', (req, res) => {
-	// console.log(req)
 	res.render('index', {
 		welcomeMessage: 'Hello, welcome to my page',
 		pageTitle: 'Home Page'

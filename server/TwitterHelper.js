@@ -10,20 +10,35 @@ var client = new Twitter({
   access_token_secret: 'CDcRkJCzDpEu1F2R0a37it3weIbuYHK38ZcmJLAruhZ0V' 
 });
 
-function searchForVerifiedUser(name){
-  return new Promise((resolve, reject) => {
-    client.get('https://api.twitter.com/1.1/users/search.json', {q: `${name.name}`, page: 1, include_entities: false})
-    .then(function(results){
-      var user = getVerifiedUser(results);
-      if(user){
-        resolve(user);
-      }else{
-        reject('Could not find user');
-      }
-    }).catch((err) => {
-      return err;
-    })
-  });
+// function searchForVerifiedUser(name){
+//   return new Promise((resolve, reject) => {
+//     client.get('https://api.twitter.com/1.1/users/search.json', {q: `${name.name}`, page: 1, include_entities: false})
+//     .then(function(results){
+//       var user = getVerifiedUser(results);
+//       if(user){
+//         resolve(user);
+//       }else{
+//         reject('Could not find user');
+//       }
+//     }).catch((err) => {
+//       return err;
+//     })
+//   });
+// }
+
+async function searchForVerifiedUser(name){
+  try{
+    const response = await client.get('https://api.twitter.com/1.1/users/search.json', {q: `${name.name}`, page: 1, include_entities: false})
+    var user = getVerifiedUser(response);
+
+    if(!user){
+      throw new Error(`${name} is not a verified user.`);
+    }
+
+    return user;
+  }catch(e){
+    throw new Error("Error fetching user.");
+  }
 }
 
 function getVerifiedUser(users) {
