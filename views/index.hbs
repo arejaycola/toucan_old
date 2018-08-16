@@ -4,80 +4,51 @@
 	<meta charset="UTF-8">
 	<!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
-	<script
-	src="js/lib/jquery-3.3.1.min.js"
-	integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-	crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
+	crossorigin="anonymous">
+	<script src="/js/lib/jquery-3.3.1.min.js"></script>
 	<title>Twitter Celebrity Lookup</title>
 </head>
 <body class='bg-dark'>
 
-	<nav class="navbar navbar-expand-sm navbar-dark bg-dark border-bottom border-light">
-		<div class="container">
-			<a href="index.html" class="navbar-brand">Glozzom</a>
-			<button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-				<span class="navbar-toggler-icon"></span>
-			</button>
-			<!-- <div class="collapse navbar-collapse" id="navbarCollapse">
-				<ul class="navbar-nav ml-auto">
-					<li class="nav-item active">
-						<a href="index.html" class="nav-link">Home</a>
-					</li>
-					<li class="nav-item">
-						<a href="about.html" class="nav-link">About Us</a>
-					</li>
-					<li class="nav-item">
-						<a href="services.html" class="nav-link">Services</a>
-					</li>
-					<li class="nav-item">
-						<a href="blog.html" class="nav-link">Blog</a>
-					</li>
-					<li class="nav-item">
-						<a href="contact.html" class="nav-link">Contact</a>
-					</li>
-				</ul>
-			</div> -->
-		</div>
-	</nav>
+	{{> navbar }}
 
-	<section id="home-icons" class="text-center p-5 bg-dark text-white">
+	<section class="text-center p-5 bg-dark text-white">
 		<div class="container">
 			<div class="row">
 				<div class="col">
-					<form class="form-inline justify-content-center" id='form'>
-						<input name='name' type="text" class="form-control mb-2 mr-2" placeholder="Enter Name">
-						<button id='send' class="btn btn-primary mb-2">Submit</button>
+					<form method='post' action='/server/twitter-search' class="form-inline justify-content-center" id='form'>
+						<input name='name' type="text" class="form-control mb-2 mr-2" placeholder="Enter Name" value="{{user.name}}">
+						<button id='send' class="btn btn-primary mb-2">Search</button>
 					</form>
 				</div>
 			</div>
-		</section>
-		<div class="container bg-dark text-center text-light">
-			<ul>
-				<li></li>
-			</ul>
-
-
 		</div>
-	</body>
-	</html>
+	</section>
 
-	<script>
-		$('#send').on('click', function(e){
-			e.preventDefault();
+	{{> result }}
 
-			$.ajax({
-				type: "POST",
-				url: '/server/twitter-search', 
-				dataType: "json",
-				data: {name: $("#form input").val()}, 
-				success: function(data) {
-				}
-			});
-		});
+</body>
+</html>
 
-	</script>
+<script>
+	// $('#send').on('click', function(e){
+	// 	e.preventDefault();
+
+	// 	$.ajax({
+	// 		type: "POST",
+	// 		url: '/server/twitter-search', 
+	// 		dataType: "json",
+	// 		data: {name: $("#form input").val()}, 
+	// 		success: function(data) {
+	// 			console.log(data);
+	// 		}
+	// 	});
+	// });
+
+</script>
 
 
-	
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>

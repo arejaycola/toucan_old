@@ -1,0 +1,51 @@
+{{#if user}}
+<section id="stats" class="p-5 bg-dark">
+	<div class="container bg-dark">
+		<div class="row">
+			<div class="col-sm-6 mx-auto">
+				<!-- <div class="card">
+					<div class="card-header">
+						<h3>{{user.name}}</h3>
+					</div>
+					<img class='card-img-top' src="{{user.profile_image_url_https}}" alt="">
+					<div class="card-body">
+					</div>
+				</div> -->
+				<div class="card">
+					<div class="card-body">
+						<img style='margin-top: -60px; margin-left: -60px;' src="{{user.profile_image_url_https}}" alt="" class="img-fluid rounded-circle w-50 mb-3">
+						<!-- <p> -->
+							<div class="d-block">
+								<span class='h3'>{{user.name}}</span>
+								<span class="h3 fa fa-stack fa-xs">
+									<i class="fa text-primary fa-certificate fa-stack-2x"></i>
+									<i class="fa fa-check fa-stack-1x fa-inverse"></i>
+								</span>
+								<span class="d-block mt-0 pt-0 text-muted">@{{user.screen_name}}</spana>
+							</div>
+
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed commodi nostrum, ab libero voluptas officia.</p>
+						<!-- <div class="d-flex justify-content-center">
+							<div class="p-4">
+								<a href="http://facebook.com">
+									<i class="fab fa-facebook"></i>
+								</a>
+							</div>
+							<div class="p-4">
+								<a href="http://twitter.com">
+									<i class="fab fa-twitter"></i>
+								</a>
+							</div>
+							<div class="p-4">
+								<a href="http://instagram.com">
+									<i class="fab fa-instagram"></i>
+								</a>
+							</div>
+						</div> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{{/if}}
