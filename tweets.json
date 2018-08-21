@@ -1,0 +1,2088 @@
+{
+  "statuses": [
+    {
+      "created_at": "Tue Aug 21 02:02:21 +0000 2018",
+      "id": 1031723146108272600,
+      "id_str": "1031723146108272640",
+      "text": "@Cheers464646 OK somewhat off topic but probably one of my biggest pet peeves on social media is people angrily add… https://t.co/ZAlHprxISF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Cheers464646",
+            "name": "williammaldonado",
+            "id": 164504461,
+            "id_str": "164504461",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZAlHprxISF",
+            "expanded_url": "https://twitter.com/i/web/status/1031723146108272640",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1031720408410669000,
+      "in_reply_to_status_id_str": "1031720408410669057",
+      "in_reply_to_user_id": 164504461,
+      "in_reply_to_user_id_str": "164504461",
+      "in_reply_to_screen_name": "Cheers464646",
+      "user": {
+        "id": 290319629,
+        "id_str": "290319629",
+        "name": "Sweaty-Toothed Madman",
+        "screen_name": "goddamnedfrank",
+        "location": "Simi Goddamned Valley, CA",
+        "description": "Master of Science at the Intersection of Light, Matter & Time",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1983,
+        "friends_count": 356,
+        "listed_count": 39,
+        "created_at": "Sat Apr 30 02:58:08 +0000 2011",
+        "favourites_count": 6334,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13359,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/945939879359156224/ZlXKL6eA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/945939879359156224/ZlXKL6eA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/290319629/1509000083",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 21 01:59:45 +0000 2018",
+      "id": 1031722492942057500,
+      "id_str": "1031722492942057472",
+      "text": "positive dressmaker undefined",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://jasonsigal.cc\" rel=\"nofollow\">jskdladja</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 796368027260485600,
+        "id_str": "796368027260485632",
+        "name": "description vocation",
+        "screen_name": "descvoc",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 26,
+        "friends_count": 1,
+        "listed_count": 5,
+        "created_at": "Wed Nov 09 15:05:08 +0000 2016",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 97598,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 21 01:55:50 +0000 2018",
+      "id": 1031721507083321300,
+      "id_str": "1031721507083321344",
+      "text": "@MikeDeVillaer @breeder_steve The system we are dealing with is undefined and hides within old terms. \n\nWe are cont… https://t.co/D08pXGjQJx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MikeDeVillaer",
+            "name": "Cannabis Law Reform",
+            "id": 545584232,
+            "id_str": "545584232",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "breeder_steve",
+            "name": "Breeder Steve",
+            "id": 4803264354,
+            "id_str": "4803264354",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/D08pXGjQJx",
+            "expanded_url": "https://twitter.com/i/web/status/1031721507083321344",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031714310635106300,
+      "in_reply_to_status_id_str": "1031714310635106304",
+      "in_reply_to_user_id": 545584232,
+      "in_reply_to_user_id_str": "545584232",
+      "in_reply_to_screen_name": "MikeDeVillaer",
+      "user": {
+        "id": 109351398,
+        "id_str": "109351398",
+        "name": "-BL4CK0UT-",
+        "screen_name": "WAC_Blackout",
+        "location": "Sunshine Coast, BC",
+        "description": "Designer, Video Editor, Father: Embrace the Grind",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 204,
+        "friends_count": 492,
+        "listed_count": 9,
+        "created_at": "Thu Jan 28 19:41:09 +0000 2010",
+        "favourites_count": 693,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11484,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1018721682368880640/mCABYObY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1018721682368880640/mCABYObY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/109351398/1531717152",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 21 01:55:35 +0000 2018",
+      "id": 1031721443917221900,
+      "id_str": "1031721443917221888",
+      "text": "@SpringyBw @BinweevilO @eliixnor @BwsRobinn @fluffygirlz12 'word on play' is undefined. Did you mean 'play on word'?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SpringyBw",
+            "name": "S҉p҉r҉i҉n҉g҉y҉",
+            "id": 4690221698,
+            "id_str": "4690221698",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "BinweevilO",
+            "name": "BW_O",
+            "id": 922532535858597900,
+            "id_str": "922532535858597888",
+            "indices": [
+              11,
+              22
+            ]
+          },
+          {
+            "screen_name": "eliixnor",
+            "name": "elinor",
+            "id": 723548698198847500,
+            "id_str": "723548698198847488",
+            "indices": [
+              23,
+              32
+            ]
+          },
+          {
+            "screen_name": "BwsRobinn",
+            "name": "*r/x/b/i/n*♡🌸🌠",
+            "id": 893559550154035200,
+            "id_str": "893559550154035200",
+            "indices": [
+              33,
+              43
+            ]
+          },
+          {
+            "screen_name": "fluffygirlz12",
+            "name": "😂Zara😂",
+            "id": 980774436755378200,
+            "id_str": "980774436755378176",
+            "indices": [
+              44,
+              58
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1031721241034600400,
+      "in_reply_to_status_id_str": "1031721241034600448",
+      "in_reply_to_user_id": 4690221698,
+      "in_reply_to_user_id_str": "4690221698",
+      "in_reply_to_screen_name": "SpringyBw",
+      "user": {
+        "id": 637187769,
+        "id_str": "637187769",
+        "name": "Monty200♡❄🍒🇪🇺☮️",
+        "screen_name": "_Monty200_",
+        "location": "Monty200's Place",
+        "description": "17. Ex-BW player. Leading a difficult life atm. @UKLabour member. Luckily doesn't let the media dictate me.  Cherry. #ChangeIsComing. 💕03/6/18 💕",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 712,
+        "friends_count": 473,
+        "listed_count": 13,
+        "created_at": "Mon Jul 16 16:46:23 +0000 2012",
+        "favourites_count": 382,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 27061,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "300EF0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/976590410477907968/6JIHsqfO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/976590410477907968/6JIHsqfO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/637187769/1516536703",
+        "profile_link_color": "F0081B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 21 01:54:22 +0000 2018",
+      "id": 1031721140178362400,
+      "id_str": "1031721140178362370",
+      "text": "@SpringyBw @BinweevilO @eliixnor @BwsRobinn @fluffygirlz12 'Poolean' is undefined. Did you mean 'Boolean'?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SpringyBw",
+            "name": "S҉p҉r҉i҉n҉g҉y҉",
+            "id": 4690221698,
+            "id_str": "4690221698",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "BinweevilO",
+            "name": "BW_O",
+            "id": 922532535858597900,
+            "id_str": "922532535858597888",
+            "indices": [
+              11,
+              22
+            ]
+          },
+          {
+            "screen_name": "eliixnor",
+            "name": "elinor",
+            "id": 723548698198847500,
+            "id_str": "723548698198847488",
+            "indices": [
+              23,
+              32
+            ]
+          },
+          {
+            "screen_name": "BwsRobinn",
+            "name": "*r/x/b/i/n*♡🌸🌠",
+            "id": 893559550154035200,
+            "id_str": "893559550154035200",
+            "indices": [
+              33,
+              43
+            ]
+          },
+          {
+            "screen_name": "fluffygirlz12",
+            "name": "😂Zara😂",
+            "id": 980774436755378200,
+            "id_str": "980774436755378176",
+            "indices": [
+              44,
+              58
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1031720869725397000,
+      "in_reply_to_status_id_str": "1031720869725396992",
+      "in_reply_to_user_id": 4690221698,
+      "in_reply_to_user_id_str": "4690221698",
+      "in_reply_to_screen_name": "SpringyBw",
+      "user": {
+        "id": 637187769,
+        "id_str": "637187769",
+        "name": "Monty200♡❄🍒🇪🇺☮️",
+        "screen_name": "_Monty200_",
+        "location": "Monty200's Place",
+        "description": "17. Ex-BW player. Leading a difficult life atm. @UKLabour member. Luckily doesn't let the media dictate me.  Cherry. #ChangeIsComing. 💕03/6/18 💕",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 712,
+        "friends_count": 473,
+        "listed_count": 13,
+        "created_at": "Mon Jul 16 16:46:23 +0000 2012",
+        "favourites_count": 382,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 27061,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "300EF0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/976590410477907968/6JIHsqfO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/976590410477907968/6JIHsqfO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/637187769/1516536703",
+        "profile_link_color": "F0081B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 21 01:53:20 +0000 2018",
+      "id": 1031720877195374600,
+      "id_str": "1031720877195374593",
+      "text": "Amazon Musicで見つけたKeali'i Reichel『ALOHA HEAVEN - Island Days』より「undefined」を紹介します。 https://t.co/FfWonHmdQ7 #AmazonMusic　歌いだしが涙そうそうに似ている",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "AmazonMusic",
+            "indices": [
+              105,
+              117
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FfWonHmdQ7",
+            "expanded_url": "https://music.amazon.co.jp/albums/B01N4N38VU?trackAsin=B01MT853UC",
+            "display_url": "music.amazon.co.jp/albums/B01N4N3…",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 222790891,
+        "id_str": "222790891",
+        "name": "樺太労働局",
+        "screen_name": "karafuto1979",
+        "location": "長野県北部",
+        "description": "#NJSLYR　と　#EREMFFS　を実況して、東映特撮Youtubeを見て、それから、それから…ロボや特撮や平沢進やエロ漫画の話をすることもあったが最近どうも。週刊少年チャンピオンを読んでいた。\r\nhttp://t.co/timhwmwcAP http://t.co/Ql8jVMali2",
+        "url": "http://t.co/pQnjsCeq2H",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/pQnjsCeq2H",
+                "expanded_url": "http://d.hatena.ne.jp/karafuto1979/",
+                "display_url": "d.hatena.ne.jp/karafuto1979/",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/timhwmwcAP",
+                "expanded_url": "http://twilog.org/karafuto1979",
+                "display_url": "twilog.org/karafuto1979",
+                "indices": [
+                  101,
+                  123
+                ]
+              },
+              {
+                "url": "http://t.co/Ql8jVMali2",
+                "expanded_url": "http://favolog.org/karafuto1979",
+                "display_url": "favolog.org/karafuto1979",
+                "indices": [
+                  124,
+                  146
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 784,
+        "friends_count": 612,
+        "listed_count": 61,
+        "created_at": "Sat Dec 04 13:22:40 +0000 2010",
+        "favourites_count": 59258,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 179137,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190317202/str2_normal.PNG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190317202/str2_normal.PNG",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/222790891/1449461856",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Tue Aug 21 01:51:57 +0000 2018",
+      "id": 1031720531706314800,
+      "id_str": "1031720531706314752",
+      "text": "Botというのでつぶやいていることもありますのでご迷惑をおかけします。。。#ストレス解消　#暇つぶし　#話題　#炎上 #2ch #祭り #まとめ #拡散 #undefined undefined",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ストレス解消",
+            "indices": [
+              37,
+              44
+            ]
+          },
+          {
+            "text": "暇つぶし",
+            "indices": [
+              45,
+              50
+            ]
+          },
+          {
+            "text": "話題",
+            "indices": [
+              51,
+              54
+            ]
+          },
+          {
+            "text": "炎上",
+            "indices": [
+              55,
+              58
+            ]
+          },
+          {
+            "text": "2ch",
+            "indices": [
+              59,
+              63
+            ]
+          },
+          {
+            "text": "祭り",
+            "indices": [
+              64,
+              67
+            ]
+          },
+          {
+            "text": "まとめ",
+            "indices": [
+              68,
+              72
+            ]
+          },
+          {
+            "text": "拡散",
+            "indices": [
+              73,
+              76
+            ]
+          },
+          {
+            "text": "undefined",
+            "indices": [
+              77,
+              87
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1600498250,
+        "id_str": "1600498250",
+        "name": "山本CHAQ夫",
+        "screen_name": "CHAQ_SOPH",
+        "location": "東京",
+        "description": "不動産業界でサラリーマンをしながら、#ギャンブル、#副業、をしています。対応ジャンルは結構広いです。#競輪、#競馬、#競艇、#オートレース、#宝くじ、#ロト6、#toto、#パチンコ、#パチスロ、#オンラインカジノ、#スポーツブック、ブラックジャック、ポーカー、バカラ、スロット、ルーレットなどなど。宜しくお願いします！",
+        "url": "http://t.co/pNArkkoSoV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/pNArkkoSoV",
+                "expanded_url": "http://www.xn--jp-mg4axag2fvhmi9cc.com/",
+                "display_url": "オンラインカジノjp.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2139,
+        "friends_count": 1431,
+        "listed_count": 0,
+        "created_at": "Wed Jul 17 09:01:29 +0000 2013",
+        "favourites_count": 36,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15043,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/411840561352413184/vI6h7d9g_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/411840561352413184/vI6h7d9g_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600498250/1387025805",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Tue Aug 21 01:49:32 +0000 2018",
+      "id": 1031719923750301700,
+      "id_str": "1031719923750301696",
+      "text": "RT @Lovi1520: Love is undefined and unexplained 🌹💗🌹 https://t.co/OZpLqTNiwM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Lovi1520",
+            "name": "Lovi",
+            "id": 2955454938,
+            "id_str": "2955454938",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1031493635819200500,
+            "id_str": "1031493635819200513",
+            "indices": [
+              52,
+              75
+            ],
+            "media_url": "http://pbs.twimg.com/media/DlCZ_ycUYAEc0G3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DlCZ_ycUYAEc0G3.jpg",
+            "url": "https://t.co/OZpLqTNiwM",
+            "display_url": "pic.twitter.com/OZpLqTNiwM",
+            "expanded_url": "https://twitter.com/Lovi1520/status/1031493640160305152/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 500,
+                "h": 321,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 500,
+                "h": 321,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 500,
+                "h": 321,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1031493640160305200,
+            "source_status_id_str": "1031493640160305152",
+            "source_user_id": 2955454938,
+            "source_user_id_str": "2955454938"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1031493635819200500,
+            "id_str": "1031493635819200513",
+            "indices": [
+              52,
+              75
+            ],
+            "media_url": "http://pbs.twimg.com/media/DlCZ_ycUYAEc0G3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DlCZ_ycUYAEc0G3.jpg",
+            "url": "https://t.co/OZpLqTNiwM",
+            "display_url": "pic.twitter.com/OZpLqTNiwM",
+            "expanded_url": "https://twitter.com/Lovi1520/status/1031493640160305152/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 500,
+                "h": 321,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 500,
+                "h": 321,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 500,
+                "h": 321,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1031493640160305200,
+            "source_status_id_str": "1031493640160305152",
+            "source_user_id": 2955454938,
+            "source_user_id_str": "2955454938"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1442895752,
+        "id_str": "1442895752",
+        "name": "SPIRITUALITY",
+        "screen_name": "India2you",
+        "location": "DELHI",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2665,
+        "friends_count": 3701,
+        "listed_count": 34,
+        "created_at": "Mon May 20 05:04:19 +0000 2013",
+        "favourites_count": 37603,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18768,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1018716441728684033/UQChrqOQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1018716441728684033/UQChrqOQ_normal.jpg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 20 10:50:22 +0000 2018",
+        "id": 1031493640160305200,
+        "id_str": "1031493640160305152",
+        "text": "Love is undefined and unexplained 🌹💗🌹 https://t.co/OZpLqTNiwM",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1031493635819200500,
+              "id_str": "1031493635819200513",
+              "indices": [
+                38,
+                61
+              ],
+              "media_url": "http://pbs.twimg.com/media/DlCZ_ycUYAEc0G3.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DlCZ_ycUYAEc0G3.jpg",
+              "url": "https://t.co/OZpLqTNiwM",
+              "display_url": "pic.twitter.com/OZpLqTNiwM",
+              "expanded_url": "https://twitter.com/Lovi1520/status/1031493640160305152/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 500,
+                  "h": 321,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 500,
+                  "h": 321,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 500,
+                  "h": 321,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1031493635819200500,
+              "id_str": "1031493635819200513",
+              "indices": [
+                38,
+                61
+              ],
+              "media_url": "http://pbs.twimg.com/media/DlCZ_ycUYAEc0G3.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DlCZ_ycUYAEc0G3.jpg",
+              "url": "https://t.co/OZpLqTNiwM",
+              "display_url": "pic.twitter.com/OZpLqTNiwM",
+              "expanded_url": "https://twitter.com/Lovi1520/status/1031493640160305152/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 500,
+                  "h": 321,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 500,
+                  "h": 321,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 500,
+                  "h": 321,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 2955454938,
+          "id_str": "2955454938",
+          "name": "Lovi",
+          "screen_name": "Lovi1520",
+          "location": "",
+          "description": "Kuch BHI NAHI hai tera.. Do gaj Zameen hai Teri.. mil jaye tujko yeah BHI ,woh bhi zaruri NAHI hai.... 😷\n\n I don't carry Dead woods 😎",
+          "url": "https://t.co/jzLDqicGbI",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/jzLDqicGbI",
+                  "expanded_url": "https://twitter.com/search?q=from%3Alovi1520",
+                  "display_url": "twitter.com/search?q=from%…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 6006,
+          "friends_count": 63,
+          "listed_count": 145,
+          "created_at": "Fri Jan 02 02:53:30 +0000 2015",
+          "favourites_count": 81114,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 203515,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1028132015004995584/IlNnPj___normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028132015004995584/IlNnPj___normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2955454938/1533347422",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 33,
+        "favorite_count": 83,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 33,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 21 01:48:56 +0000 2018",
+      "id": 1031719771958587400,
+      "id_str": "1031719771958587392",
+      "text": "rejected behavioral disorder counselor undefined",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://jasonsigal.cc\" rel=\"nofollow\">jskdladja</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 796368027260485600,
+        "id_str": "796368027260485632",
+        "name": "description vocation",
+        "screen_name": "descvoc",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 26,
+        "friends_count": 1,
+        "listed_count": 5,
+        "created_at": "Wed Nov 09 15:05:08 +0000 2016",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 97598,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 21 01:47:14 +0000 2018",
+      "id": 1031719344085057500,
+      "id_str": "1031719344085057536",
+      "text": "'I remember when Bravo aired operas' ((undefined))30rock",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://cheapbotsdonequick.com\" rel=\"nofollow\">Cheap Bots, Done Quick!</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 935582303862083600,
+        "id_str": "935582303862083591",
+        "name": "Oneliners Bot",
+        "screen_name": "oneliners_bot",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2,
+        "friends_count": 4,
+        "listed_count": 0,
+        "created_at": "Tue Nov 28 18:52:58 +0000 2017",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9097,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 21 01:47:03 +0000 2018",
+      "id": 1031719298031644700,
+      "id_str": "1031719298031644672",
+      "text": "undefined https://t.co/Xa5BUzi98m #biblestudytools #bst #bible",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "biblestudytools",
+            "indices": [
+              34,
+              50
+            ]
+          },
+          {
+            "text": "bst",
+            "indices": [
+              51,
+              55
+            ]
+          },
+          {
+            "text": "bible",
+            "indices": [
+              56,
+              62
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Xa5BUzi98m",
+            "expanded_url": "https://www.oneplace.com/ministries/unshackled/listen/program-3527-maggie-conrad-part-1-pg-702611.html?ref=sm",
+            "display_url": "oneplace.com/ministries/uns…",
+            "indices": [
+              10,
+              33
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 738166274644004900,
+        "id_str": "738166274644004864",
+        "name": "Steve Thurman",
+        "screen_name": "Slt1960",
+        "location": "United States",
+        "description": "Living with eternity in mind.  aka @jesusdiciple77 , currently suspended since April 17, 2018. Reason unknown.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 114,
+        "friends_count": 192,
+        "listed_count": 1,
+        "created_at": "Thu Jun 02 00:32:09 +0000 2016",
+        "favourites_count": 2142,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 106,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1030133509417914368/5J6rcRQq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1030133509417914368/5J6rcRQq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/738166274644004864/1534726749",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 21 01:47:01 +0000 2018",
+      "id": 1031719289768882200,
+      "id_str": "1031719289768882177",
+      "text": "RT @dankildee: Michigan families are working harder than ever to pay for their homes and their groceries while Republicans brag about this…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dankildee",
+            "name": "Dan Kildee",
+            "id": 18674498,
+            "id_str": "18674498",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 775065635218858000,
+        "id_str": "775065635218857984",
+        "name": "Sherry Lee",
+        "screen_name": "thehumanplumber",
+        "location": "Michigan, USA",
+        "description": "Humanitarian resistor and supporter of the sciences, ethics, and kindness. Combats arterial and venous disease. PWDP. Opinions are my own.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 158,
+        "friends_count": 273,
+        "listed_count": 1,
+        "created_at": "Sun Sep 11 20:17:02 +0000 2016",
+        "favourites_count": 2991,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3302,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/901230088204636160/DZz91dHm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/901230088204636160/DZz91dHm_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 20 22:32:37 +0000 2018",
+        "id": 1031670366966624300,
+        "id_str": "1031670366966624256",
+        "text": "Michigan families are working harder than ever to pay for their homes and their groceries while Republicans brag ab… https://t.co/memaneUeHI",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/memaneUeHI",
+              "expanded_url": "https://twitter.com/i/web/status/1031670366966624256",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 18674498,
+          "id_str": "18674498",
+          "name": "Dan Kildee",
+          "screen_name": "dankildee",
+          "location": "Michigan",
+          "description": "Fighting for Michigan.",
+          "url": "https://t.co/MhchT7hPEC",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/MhchT7hPEC",
+                  "expanded_url": "http://www.dankildee.com",
+                  "display_url": "dankildee.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 4131,
+          "friends_count": 1938,
+          "listed_count": 132,
+          "created_at": "Tue Jan 06 13:39:10 +0000 2009",
+          "favourites_count": 96,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 1244,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "131516",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/650011318129328128/LvZFfqSx_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/650011318129328128/LvZFfqSx_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/18674498/1484574353",
+          "profile_link_color": "009999",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 21 01:46:56 +0000 2018",
+      "id": 1031719269279576000,
+      "id_str": "1031719269279576065",
+      "text": "See Interest over time on Google Trends for virtual youtuber, vtuber - Worldwide, Past 12 months - undefined",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 463517792,
+        "id_str": "463517792",
+        "name": "Von Cuaresma/TinBoyVCC: Rooting for RTX GPUs",
+        "screen_name": "TinBoy752",
+        "location": "Laguna, Philippines",
+        "description": "🇵🇭 (ENG/FIL/N4 JAP) Cartoon/Otaku | GL Fan | Mobile Gamer | 2D/3D Artist | Revue Starlight: ReLive, PUBG Mobile, BanG Dream!, and AoV.",
+        "url": "https://t.co/Sw9YCZ7gBV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Sw9YCZ7gBV",
+                "expanded_url": "http://www.youtube.com/user/TinBoy752",
+                "display_url": "youtube.com/user/TinBoy752",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 100,
+        "friends_count": 593,
+        "listed_count": 0,
+        "created_at": "Sat Jan 14 05:43:16 +0000 2012",
+        "favourites_count": 2287,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1676,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/990087461987536897/g-Wdtoml_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/990087461987536897/g-Wdtoml_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/463517792/1524890135",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "816F46",
+        "profile_sidebar_fill_color": "C8EDFF",
+        "profile_text_color": "2B0C13",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 21 01:46:05 +0000 2018",
+      "id": 1031719052278939600,
+      "id_str": "1031719052278939648",
+      "text": "Hulu sucks for taking samurai jack off and putting Afro samurai only to add 5 episodes of it 😒",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 251299230,
+        "id_str": "251299230",
+        "name": "Samurai_Jack👩🏽‍🎤⚔️🔮",
+        "screen_name": "Key_Undefined",
+        "location": "Galaxy ",
+        "description": "IG: @maitai_kieshaK College| Peace & Positive Vibes| Future business mogul| dolla and a dream|SC 👻XXKieshaXKing and KingKiesha |",
+        "url": "https://t.co/m8AU7eqdGj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/m8AU7eqdGj",
+                "expanded_url": "https://mobile.twitter.com/maikiesha",
+                "display_url": "mobile.twitter.com/maikiesha",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1565,
+        "friends_count": 1603,
+        "listed_count": 10,
+        "created_at": "Sat Feb 12 21:16:51 +0000 2011",
+        "favourites_count": 9334,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 30509,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1015929246840164352/t3ZzYCpj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1015929246840164352/t3ZzYCpj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/251299230/1492051771",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 21 01:45:33 +0000 2018",
+      "id": 1031718919696990200,
+      "id_str": "1031718919696990208",
+      "text": "RT @KasieDC: The privacy battle in Silicon Valley (latest from @nickconfessore)  \n\nhttps://t.co/Yzwj6AyG95",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KasieDC",
+            "name": "Kasie DC",
+            "id": 917577254221336600,
+            "id_str": "917577254221336578",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "nickconfessore",
+            "name": "Nick Confessore",
+            "id": 258885469,
+            "id_str": "258885469",
+            "indices": [
+              63,
+              78
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Yzwj6AyG95",
+            "expanded_url": "https://www.nytimes.com/2018/08/14/magazine/facebook-google-privacy-data.html?rref=collection%2Fbyline%2Fnicholas-confessore&action=click&contentCollection=undefined&region=stream&module=stream_unit&version=latest&contentPlacement=3&pgtype=collection",
+            "display_url": "nytimes.com/2018/08/14/mag…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 778717194972561400,
+        "id_str": "778717194972561409",
+        "name": "David🇵🇷Vazquez",
+        "screen_name": "DavidVazquezASS",
+        "location": "Miami, FL",
+        "description": "I’am an enthusiastic Artist, nature is beautiful, inspiring, soothing. Animals are my friends, they call me “animal whisperer”-Helicopters/Jets are my thing.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1134,
+        "friends_count": 4950,
+        "listed_count": 115,
+        "created_at": "Wed Sep 21 22:07:02 +0000 2016",
+        "favourites_count": 126220,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 92727,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1002603130473844738/7jNdcEJj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002603130473844738/7jNdcEJj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/778717194972561409/1490277872",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 20 00:54:42 +0000 2018",
+        "id": 1031343733407735800,
+        "id_str": "1031343733407735808",
+        "text": "The privacy battle in Silicon Valley (latest from @nickconfessore)  \n\nhttps://t.co/Yzwj6AyG95",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "nickconfessore",
+              "name": "Nick Confessore",
+              "id": 258885469,
+              "id_str": "258885469",
+              "indices": [
+                50,
+                65
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Yzwj6AyG95",
+              "expanded_url": "https://www.nytimes.com/2018/08/14/magazine/facebook-google-privacy-data.html?rref=collection%2Fbyline%2Fnicholas-confessore&action=click&contentCollection=undefined&region=stream&module=stream_unit&version=latest&contentPlacement=3&pgtype=collection",
+              "display_url": "nytimes.com/2018/08/14/mag…",
+              "indices": [
+                70,
+                93
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 917577254221336600,
+          "id_str": "917577254221336578",
+          "name": "Kasie DC",
+          "screen_name": "KasieDC",
+          "location": "Washington, DC",
+          "description": "Sunday nights, 7-9 p.m. ET on @MSNBC!",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 20184,
+          "friends_count": 29,
+          "listed_count": 251,
+          "created_at": "Tue Oct 10 02:27:19 +0000 2017",
+          "favourites_count": 453,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 1342,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/918481891371765762/mgh8OnQl_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/918481891371765762/mgh8OnQl_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/917577254221336578/1516912645",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 23,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 18,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.027,
+    "max_id": 1031723146108272600,
+    "max_id_str": "1031723146108272640",
+    "next_results": "?max_id=1031718919696990207&q=undefined&include_entities=1&result_type=recent",
+    "query": "undefined",
+    "refresh_url": "?since_id=1031723146108272640&q=undefined&result_type=recent&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

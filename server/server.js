@@ -4,8 +4,9 @@ const express = require('express');
 const exphbs = require('express-handlebars');
 const bodyParser = require('body-parser');
 const colors = require('colors');
+const moment = require('moment');
 
-const {searchForVerifiedUser} = require('./TwitterHelper');
+const {searchForVerifiedUser, getRetweets} = require('./TwitterHelper');
 
 const publicPath = path.join(__dirname, '../public');
 const port = process.env.PORT || 80; 
@@ -28,21 +29,22 @@ app.post('/server/twitter-search', async (req, res) => {
 	try{
 
 		var user = await searchForVerifiedUser(req.body);
-		fs.writeFileSync('results.json', JSON.stringify(user, undefined, 2));
-		user.profile_image_url_https = user.profile_image_url_https.replace(new RegExp('_normal', 'g'), '')
+		var tweets = await getRetweets(user);
+
+		user.profile_image_url_https = user.profile_image_url_https.replace(new RegExp('_normal', 'g'), '');
+		user.created_at = moment(new Date(user.created_at), "MMM-YYYY").format("MMMM YYYY");
+
+
+
 		res.render('index', {
 			user:user
-		})
-		// res.renderPartials({
-		// 	result: {data: "user"}
-		// });
-		//res.render('partials/result', {layout: false, user: user})
+		});
 	}catch(e){
 		console.log(colors.red(e));
 	}
 });
 
-app.get('/', (req, res) => {
+app.get(['/', '/server/twitter-search'], (req, res) => {
 	res.render('index');
 });
 

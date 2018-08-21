@@ -1,51 +1,43 @@
 {{#if user}}
-<section id="stats" class="p-5 bg-dark">
+<section id="stats" class="p-2 bg-dark">
 	<div class="container bg-dark">
+		<div class="row mb-2">
+			<div class="col">
+				<img class='w-100 rounded img-fluid' src="{{user.profile_banner_url}}" alt="">
+			</div>
+		</div>
 		<div class="row">
-			<div class="col-sm-6 mx-auto">
-				<!-- <div class="card">
-					<div class="card-header">
-						<h3>{{user.name}}</h3>
-					</div>
-					<img class='card-img-top' src="{{user.profile_image_url_https}}" alt="">
+			<div class="col-sm-4">
+				<div class="card m-0 p-0">
 					<div class="card-body">
-					</div>
-				</div> -->
-				<div class="card">
-					<div class="card-body">
-						<img style='margin-top: -60px; margin-left: -60px;' src="{{user.profile_image_url_https}}" alt="" class="img-fluid rounded-circle w-50 mb-3">
-						<!-- <p> -->
-							<div class="d-block">
-								<span class='h3'>{{user.name}}</span>
-								<span class="h3 fa fa-stack fa-xs">
-									<i class="fa text-primary fa-certificate fa-stack-2x"></i>
-									<i class="fa fa-check fa-stack-1x fa-inverse"></i>
-								</span>
-								<span class="d-block mt-0 pt-0 text-muted">@{{user.screen_name}}</spana>
-							</div>
-
-							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed commodi nostrum, ab libero voluptas officia.</p>
-						<!-- <div class="d-flex justify-content-center">
-							<div class="p-4">
-								<a href="http://facebook.com">
-									<i class="fab fa-facebook"></i>
-								</a>
-							</div>
-							<div class="p-4">
-								<a href="http://twitter.com">
-									<i class="fab fa-twitter"></i>
-								</a>
-							</div>
-							<div class="p-4">
-								<a href="http://instagram.com">
-									<i class="fab fa-instagram"></i>
-								</a>
-							</div>
-						</div> -->
+						<img style='margin-top: -100px; margin-left: -60px;' src="{{user.profile_image_url_https}}" alt="" class="img-fluid rounded-circle w-50 mb-3">
+						<div class="d-block">
+							<span class='h3'>{{user.name}}</span>
+							<span class="h3 fa fa-stack fa-xs">
+								<i class="fa text-primary fa-certificate fa-stack-2x"></i>
+								<i class="fa fa-check fa-stack-1x fa-inverse"></i>
+							</span>
+							<p class="text-muted" style="line-height: 0;">@{{user.screen_name}}</p>
+						</div>
+						<hr>
+						<ul class="list-unstyled">
+							<li>{{user.description}}</li>
+							<br>
+							<li><i class="fas fa-map-marker-alt"></i> {{user.location}}</li>
+							<li><i class="fas fa-link"></i> <a href="{{user.entities.url.urls.[0].expanded_url}}">{{user.entities.url.urls.[0].display_url}}</a></li>
+							<li><i class="fas fa-calendar-alt"></i> Joined {{user.created_at}}</li>
+						</ul>
 					</div>
 				</div>
 			</div>
+			<div class="col-sm-8">
+				<div class="card m-0 p-0">
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos magni officia accusamus! Quod, laudantium magni temporibus fugiat blanditiis unde delectus.</p>
+				</div>
+			</div>
+
 		</div>
+
 	</div>
 </section>
 {{/if}}
