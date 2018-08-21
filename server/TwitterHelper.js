@@ -1,3 +1,6 @@
+require('./config/config');
+
+
 const Twitter = require('twitter');
 const fs = require('fs');
 const moment = require('moment');
@@ -5,12 +8,14 @@ const colors = require('colors');
 
 /* Move this to environment variable. */
 var client = new Twitter({
-  consumer_key: 'uMeZ109nbQjxz15ybwecaWIFX',
-  consumer_secret: 'xbi44uWnicPAktkUa6v3J3cYN4s3eJQ2nmQZ0YATXUWjq0vNzR',
-  access_token_key: '18616681-bUSABQTOGXK84nvllDbxadyAYQqUZm5FbtTE9ZZ2H',
-  access_token_secret: 'CDcRkJCzDpEu1F2R0a37it3weIbuYHK38ZcmJLAruhZ0V' 
+  consumer_key:  process.env.CONSUMER_KEY,
+  consumer_secret:  process.env.CONSUMER_SECRET,
+  access_token_key:  process.env.ACCESS_TOKEN_KEY,
+  access_token_secret:  process.env.ACCESS_TOKEN_SECRET 
 });
 
+
+console.log(process.env.CONSUMER_KEY, process.env.CONSUMER_SECRET);
 async function getRetweets(user){
   try{
     const tweets = await client.get('https://api.twitter.com/1.1/search/tweets.json', {
@@ -58,6 +63,7 @@ async function searchForVerifiedUser(name){
 
     return user;
   }catch(e){
+    console.log(e);
     throw new Error("Error fetching user.");
   }
 }
